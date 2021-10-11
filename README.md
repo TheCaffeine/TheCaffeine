@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheCaffeine
 - 👀 I’m interested in all things programming and tech. 
-- 🌱 I’m currently learning css, python, Javascript, html etc. 
+- 🌱 I’m currently learning css, python, Javascript, html, angular, typescript etc. 
 - 💞️ I’m looking to collaborate on fullstack developments. 
 - 📫 How to reach me liamabenger@hotmail.co.uk
 
